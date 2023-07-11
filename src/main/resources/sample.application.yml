@@ -1,0 +1,14 @@
+email:
+  username: emailwithoutdomainname
+  password: googlegeneratedapppassword
+  host: imap.gmail.com
+  port: 993
+  mailbox: INBOX
+  pollRate: 30000
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: yourdatabasenameofchoice
